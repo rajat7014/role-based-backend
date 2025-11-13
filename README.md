@@ -11,35 +11,13 @@ Deployed on Render (Backend) & Vercel (Frontend)
 📌 Features
 🔐 Authentication
 
-User signup->User login, JWT-based authentication
+User signup->User login, JWT-based authentication,Login-protected routes, Logout functionality
 
-Login-protected routes
-
-Logout functionality
-
-👤 Role-Based Dashboard
-
-Single dashboard page
-
-Dynamic UI based on user role
-
-Admin sees advanced controls
-
-User sees personal item manager
+👤 Role-Based Dashboard, Single dashboard page, Dynamic UI based on user role, Admin sees advanced controls, User sees personal item manager
 
 📦 CRUD Operations
 
-Add item
-
-Edit item
-
-Delete item
-
-Search items
-
-Pagination
-
-Filters (A–Z, Z–A, Latest)
+Add item, Edit item, Delete item, Search items, Pagination, Filters (A–Z, Z–A, Latest)
 
 🛠 Admin Panel (Admin Only)
 

@@ -4,30 +4,14 @@ A full-stack role-based authentication system built using Next.js (Frontend) and
 
 This project includes:
 
-User registration & login
-
-JWT authentication
-
-Role-based dashboards (Admin/User)
-
-CRUD operations with search, filters, update, delete
-
-Pagination
-
-Full Admin panel
-
-Form validation (Zod)
-
+SignUp & login, JWT authentication, Role-based dashboards (Admin/User), CRUD operations with search, filters, update, delete, Pagination,
+Full Admin panel, Form validation (Zod)
 Deployed on Render (Backend) & Vercel (Frontend)
 
 📌 Features
 🔐 Authentication
 
-User signup
-
-User login
-
-JWT-based authentication
+User signup->User login, JWT-based authentication
 
 Login-protected routes
 
